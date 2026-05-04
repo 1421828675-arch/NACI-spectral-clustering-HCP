@@ -2,7 +2,7 @@
 
 This repository contains MATLAB code used for the analysis of the Neural Activation Constraint Index (NACI) and spectral clustering in the manuscript:
 
-**"[Your manuscript title]"**
+**"Neurobiological and behavioral relevance of intrinsic functional connectome constraints on task-evoked neural activation"**
 
 ---
 
