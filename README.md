@@ -65,7 +65,7 @@ writetable
 
 ## Script descriptions
 
-### 01_calculate_NACI_single_task.m
+### step1_calculate_NACI_single_task.m
 
 This script calculates subject-level NACI values for a single task condition.
 
@@ -73,7 +73,7 @@ For each subject, task-evoked activation in each cortical region is predicted fr
 
 ---
 
-### 02_spectral_clustering_NACI.m
+### step2_spectral_clustering_NACI.m
 
 This script performs spectral clustering based on a 1005 × 7 NACI feature matrix.
 
@@ -93,7 +93,7 @@ The script also compares NACI values between clustering-defined groups and appli
 
 ---
 
-### 03_robustness_NACI_correlations.m
+### step3_robustness_NACI_correlations.m
 
 This script evaluates the robustness of NACI values across alternative analytical strategies, including:
 
@@ -105,7 +105,7 @@ Pearson and Spearman correlations are calculated between the main analysis and e
 
 ---
 
-### 04_cluster_consistency_kappa.m
+### step4_cluster_consistency_kappa.m
 
 This script evaluates cluster-label agreement across robustness analyses.
 
@@ -167,8 +167,8 @@ This repository is publicly accessible and does not require login or password ac
 
 ## Contact
 
-[ Yongqiang Yu]
-[yuyongqiang@ahmu.edu.cn]
+[ Chao Tao]
+[2446010221@stu.ahmu.edu.cn]
 
 ---
 
